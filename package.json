@@ -9,7 +9,7 @@
   },
   "component": {
     "scripts": {
-      "eql/index.js": "index.js"
+      "mongo-eql/index.js": "index.js"
     }
   }
 }
