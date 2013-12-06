@@ -1,7 +1,6 @@
 {
   "name": "mongo-eql",
   "version": "0.0.1",
-  "private": true,
   "description": "",
   "dependencies": {
     "debug": "*",
