@@ -1,4 +1,10 @@
 
+0.1.2 / 2014-08-22
+==================
+
+ * fix component and browserify builds
+ * Revert "index: fix require stuff"
+
 0.1.1 / 2014-05-04
 ==================
 
