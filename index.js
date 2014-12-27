@@ -47,7 +47,7 @@ function eql(matcher, val){
       // we match all values of `matcher` in `val`
       for (var i in matcher) {
         if (matcher.hasOwnProperty(i)) {
-          if (!val.hasOwnProperty(i) || !eql(matcher[i], val[i])) {
+          if (!val || !val.hasOwnProperty(i) || !eql(matcher[i], val[i])) {
             return false;
           }
         }
