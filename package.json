@@ -4,10 +4,10 @@
   "description": "",
   "dependencies": {
     "debug": "*",
-    "type-component": "0.0.1"
+    "component-type": "1.1.0"
   },
   "browser": {
-    "type": "type-component"
+    "type": "component-type"
   },
   "component": {
     "scripts": {
