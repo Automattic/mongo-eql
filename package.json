@@ -1,7 +1,11 @@
 {
   "name": "mongo-eql",
   "version": "0.1.3",
-  "description": "",
+  "description": "Applies the MongoDB equality semantics for a comparison between two datastructures",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cloudup/mongo-eql.git"
+  },
   "dependencies": {
     "debug": "*",
     "component-type": "1.1.0"
