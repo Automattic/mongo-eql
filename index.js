@@ -6,9 +6,9 @@
 var type;
 
 try {
-  type = require('type-component');
-} catch(e){
   type = require('type');
+} catch(e){
+  type = require('component-type');
 }
 
 /**
