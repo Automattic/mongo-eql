@@ -1,4 +1,10 @@
 
+1.0.0 / 2015-03-11
+==================
+
+  * remove component
+  * package: add "description" and "repository" fields
+
 0.1.3 / 2015-03-11
 ==================
 
