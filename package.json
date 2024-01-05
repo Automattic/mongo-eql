@@ -9,5 +9,8 @@
   "dependencies": {
     "debug": "*",
     "component-type": "1.1.0"
+  },
+  "scripts": {
+    "test": "node test"
   }
 }
